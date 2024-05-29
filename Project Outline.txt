@@ -1,0 +1,19 @@
+1. Importing the necessary libraries
+2. Loading the dataset
+3. First Look at the MPG dataset
+4. Data Cleaning
+    >1. Standardizing column names
+    >2. Standardizing text columns
+    >3. Removing unecessary spaces from text columns (if any)
+    >4. Removing duplicated records (if any)
+    >5. Handling Missing values
+    >6. Extracting information from from a column
+    >7 Handling an outlier records
+5. Explotatory data analysis(EDA)
+    >1. Univariate Analysis
+    >2. Bivariate Analysis
+    >3. Multivariate Analysis
+6. Model trianing
+7. Model Prediction
+8. Model Evaluation
+9. Model Visualization
